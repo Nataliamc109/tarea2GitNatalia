@@ -11,4 +11,7 @@ package tarea2gitnatalia;
  */
 public class Jugador {
     
+    String nombre;
+    int votos;
+    int id;
 }
